@@ -1,8 +1,8 @@
 # food-picture-01 entry
 
-A steaming bowl of ramen in a black ceramic bowl: noodles lifted high
-with chopsticks, a jammy egg with a runny golden yolk, caramelised
-chashu pork, nori, spring onions, sesame, and chilli oil swirling on
-rich tonkotsu broth.
+A gourmet ribeye steak, sliced medium-rare with a pink centre and a
+dark caramelised crust, fanned out on dark slate with a pat of herb
+butter melting over the hot slices, rosemary, roasted garlic, flaky sea
+salt, chimichurri, and a glass of red wine behind it.
 
 `main.ts` copies `entry.png` to the output directory, byte for byte.
