@@ -1,9 +1,9 @@
 // food-picture-01 entry (Node 22, standard library only).
-// The image is entry.png beside this file: a gourmet ribeye steak,
-// sliced medium-rare with a pink centre and a dark caramelised crust,
-// fanned out on dark slate with a pat of herb butter melting over the
-// hot slices, rosemary, roasted garlic, flaky sea salt, chimichurri,
-// and a glass of red wine behind it.
+// The image is entry.png beside this file: a gourmet steak with herb
+// butter, as Ryan generated it — a thick-cut steak with a deeply seared
+// crust and a glossy pool of sauce, a round pat of herb butter melting
+// on top with a rosemary sprig, creamy mashed potatoes, asparagus,
+// cherry tomatoes and carrots, on a dark plate in warm light.
 // The program copies it to /output/entry.png, byte for byte.
 // Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
 //   mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
