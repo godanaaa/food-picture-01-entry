@@ -1,7 +1,7 @@
 # food-picture-01 entry
 
-A double smash burger on a glossy toasted brioche bun: cheddar melting
-down the sides, steam rising from the hot patties, fresh lettuce and
-tomato, golden fries blurred behind it in warm window light.
+Grilled king prawns in their shells, glistening with melted garlic
+butter, lightly charred at the edges, on dark slate with charred lemon
+wedges, fresh herbs, and steam rising from the hot prawns.
 
 `main.ts` copies `entry.png` to the output directory, byte for byte.
