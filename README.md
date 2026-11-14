@@ -1,9 +1,8 @@
 # food-picture-01 entry
 
-A lavish buffet spread seen from directly above: a whole roast chicken
-at the centre, grilled fish with lemon, sliced roast beef, garlic prawns
-steaming in their pan, roasted vegetables, salad, cheeses, figs and
-grapes, crusty bread, rice, sauces, and wine, all on a rustic wooden
-table.
+A steaming bowl of ramen in a black ceramic bowl: noodles lifted high
+with chopsticks, a jammy egg with a runny golden yolk, caramelised
+chashu pork, nori, spring onions, sesame, and chilli oil swirling on
+rich tonkotsu broth.
 
 `main.ts` copies `entry.png` to the output directory, byte for byte.

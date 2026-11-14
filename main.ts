@@ -1,9 +1,8 @@
 // food-picture-01 entry (Node 22, standard library only).
-// The image is entry.png beside this file: a lavish buffet spread seen
-// from directly above — a whole roast chicken at the centre, grilled
-// fish with lemon, sliced roast beef, garlic prawns steaming in their
-// pan, roasted vegetables, salad, cheeses, figs and grapes, crusty
-// bread, rice, sauces, and wine, all on a rustic wooden table.
+// The image is entry.png beside this file: a steaming bowl of ramen in
+// a black ceramic bowl — noodles lifted high with chopsticks, a jammy
+// egg with a runny golden yolk, caramelised chashu pork, nori, spring
+// onions, sesame, and chilli oil swirling on rich tonkotsu broth.
 // The program copies it to /output/entry.png, byte for byte.
 // Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
 //   mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
